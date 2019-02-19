@@ -1,0 +1,88 @@
+ /*body{
+  background-image: url(code.jpg);
+} */
+ #infoJumbotron{
+  margin-bottom: 0px;
+  color: white;
+}
+#name
+{
+  font-family: monospace;
+}
+/* #info
+{
+  background-image: url("IMG/code.jpg");
+  color: white;
+} */
+#parcoursJumbotron
+{
+  margin-bottom: 0px;
+  background: white;
+}
+#collapse{
+  font-family: inherit;
+}
+/* #experiencesJumbotron{
+margin-bottom: 0px;
+}
+#competencesJumbotron{
+margin-bottom: 0px;
+}*/
+#contact{
+  margin-bottom: 0px;
+  background: white;
+}
+#linkedin{
+  width: 50px;
+}
+#github{
+  width: 50px;
+}
+#telephone{
+  width: 50px;
+}
+#mail{
+  width: 50px;
+}
+#pdf{
+  width: 50px;
+}
+#copyright
+{
+    margin-bottom: 0px;
+}
+/* #hobbiesJumbotron
+{
+  margin-bottom: 0px;
+} */
+#carouselHobbies
+{
+  margin-bottom: 0px;
+  background: white;
+}
+/*
+ .cardCompetences {
+  background-color: black;
+  color: green;
+}  */
+/* .flip3D{ width:340px; height:300px; margin:10px;}
+.flip3D > .front{
+	position:absolute;
+	transform: perspective( 600px ) rotateY( 0deg );
+	background-image: url("IMG/foot.jpg"); width:340px; height:300px; border-radius: 7px;
+	backface-visibility: hidden;
+	transition: transform .5s linear 0s;
+}
+.flip3D > .back{
+	position:absolute;
+	transform: perspective( 600px ) rotateY( 180deg );
+	background-image: url("IMG/jeux.jpg"); width:340px; height:300px; border-radius: 7px;
+	backface-visibility: hidden;
+	transition: transform .5s linear 0s;
+}
+.flip3D:hover > .front{
+	transform: perspective( 600px ) rotateY( -180deg );
+}
+.flip3D:hover > .back{
+	transform: perspective( 600px ) rotateY( 0deg );
+} */
